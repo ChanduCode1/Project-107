@@ -1,0 +1,9 @@
+https://teachablemachine.withgoogle.com/models/NAxCe3Vbr/model.json
+
+Background Noise
+
+Dog
+
+Cat
+
+Cow
